@@ -1,0 +1,17 @@
+{
+    "hero": {
+        "header": "Start Your Day <br> With A Freshly Brewed Cafe",
+        "subtext": "Why you should drink coffee: it contains antioxidants and other active substances that may reduce internal inflammation and protect against disease",
+        "bg_image": "/images/coffee.jpg"
+    },
+    "about": {
+        "header": "Welcome To Coffee House",
+        "subtext": "You want a good coffee to start your day? Or after work soothing smoothies and sweat pastries to wash the exhaustion away? You are at the right place! Here we prioritize our customers happiness, we offer the best quality within the right atmosphere.",
+        "bg_image": "/images/bg_image2.jpg",
+        "images" : [
+            {"image": "/images/coff.jpg", "caption": "Brazilian Coffee"},
+            {"image": "/images/tea.jpg", "caption": "British Tea"},
+            {"image": "/images/pac.jpg", "caption": "French Pain Au Chocolat"}
+        ]
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "title": "Coffee House",
+    "description":
+      "Welcome to our Coffee House, We hope you enjoy your time among us!",
+      "hours": [
+        {"day": "Mon - Fri", "time":"9AM - 5PM"},
+        {"day": "Sat - Sun", "time":"Closed"}
+      ]
+  }
